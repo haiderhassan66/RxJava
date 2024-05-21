@@ -42,4 +42,5 @@ dependencies {
     implementation (libs.retrofit)
     implementation (libs.rxandroid)
     implementation (libs.rxjava)
+    implementation libs.rxbinding
 }
